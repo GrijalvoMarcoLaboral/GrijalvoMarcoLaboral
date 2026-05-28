@@ -42,14 +42,12 @@ def obtener_bloque_noticias(fecha_inicio, fecha_fin):
                     
                     fecha_pub_str = fecha_pub.strftime('%Y/%m/%d')
 
-                    # DISEÑO DE BURBUJA
-                    # CORRECCIÓN DEFINITIVA: Se añade 'rel="noopener noreferrer"' para seguridad
-                    # y 'style="font-weight:bold"' para mantener la negrita compatible.
+                    # DISEÑO DE BURBUJA (MANTENIDO IGUAL)
                     bloque_noticia = f"""
 > 📅 **{fecha_pub_str}**
 > ### {titulo_es}
 > 
-> <a href="{entry.link}" target="_blank" rel="noopener noreferrer" style="font-weight:bold">🔗 Ir al enlace ↗</a>
+> **[🔗 Ir al enlace ↗]({entry.link})**
 
 ---
 """
@@ -58,7 +56,7 @@ def obtener_bloque_noticias(fecha_inicio, fecha_fin):
         except Exception as e:
             print(f"Error procesando {url}: {e}")
 
-    # Estructura Markdown nativa con <details>
+    # Estructura Markdown nativa con <details> (MANTENIDA IGUAL)
     if noticias_encontradas:
         markdown_final = f'''
 <details>
