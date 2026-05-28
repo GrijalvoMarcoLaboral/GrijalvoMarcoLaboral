@@ -43,11 +43,12 @@ def obtener_bloque_noticias(fecha_inicio, fecha_fin):
                     fecha_pub_str = fecha_pub.strftime('%Y/%m/%d')
 
                     # DISEÑO DE BURBUJA (MANTENIDO IGUAL)
+                    # MODIFICACIÓN: Se usa HTML <a> con target="_blank" para abrir en nueva pestaña
                     bloque_noticia = f"""
 > 📅 **{fecha_pub_str}**
 > ### {titulo_es}
 > 
-> **[🔗 Ir al enlace ↗]({entry.link})**
+> <b><a href="{entry.link}" target="_blank">🔗 Ir al enlace ↗</a></b>
 
 ---
 """
