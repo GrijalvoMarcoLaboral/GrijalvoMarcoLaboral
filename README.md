@@ -1,5 +1,5 @@
 # Mi Portfolio
-(Aquí tus proyectos...)
+"Consulté mis flujos de trabajo simulados, los cuales demuestran mi conocimiento operativo."
 
 ## 📰 Noticias semanales Ciberseguridad Al día
 
