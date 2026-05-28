@@ -2,7 +2,7 @@ name: Actualizar Noticias Ciberseguridad
 
 on:
   schedule:
-    - cron: '30 12 * * 5'
+    - cron: '30 12 * * 5' # Se ejecuta los viernes a las 12:30 UTC
   workflow_dispatch:
 
 jobs:
@@ -30,5 +30,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          # Si hay cambios, hace commit y fuerza el push (sobrescribe conflictos)
+          # Si hay cambios, hace commit y fuerza el push
           git diff --quiet && git diff --staged --quiet || (git commit -m "docs: actualizacion automatica noticias" && git push --force)
