@@ -2,7 +2,7 @@ name: Actualizar Noticias Ciberseguridad
 
 on:
   schedule:
-    - cron: '30 12 * * 5' # Los viernes a las 12:30 UTC
+    - cron: '30 12 * * 5' 
   workflow_dispatch:
 
 jobs:
@@ -25,9 +25,10 @@ jobs:
       - name: Ejecutar script de noticias
         run: python noticias_sec.py
 
-      - name: Guardar cambios en README
+      - name: Guardar cambios y sincronizar
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: actualizacion automatica noticias" && git push)
+          # Si hay cambios, hace commit, hace pull-rebase y luego push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: actualizacion automatica noticias" && git pull --rebase origin main && git push)
