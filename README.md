@@ -6,6 +6,377 @@
 <!-- NOTICIAS_START -->
 
 <details>
+<summary><b>📦 Ver Noticias Recientes (2026/05/29 al 2026/06/05)</b></summary>
+<br/>
+
+
+> 📅 **2026/06/05**
+> ### IronWorm y la nueva variante de Miasma Worm atacan a npm en ataques a la cadena de suministro
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)**
+
+---
+
+> 📅 **2026/06/05**
+> ### El software espía de Android Asin se dirige a usuarios árabes a través de noticias falsas, PDF y aplicaciones de mapas de guerra
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)**
+
+---
+
+> 📅 **2026/06/05**
+> ### El nuevo grupo de amenazas OP-512 se dirige a servidores Microsoft IIS con un marco de shell web personalizado
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Sólo el 10% de los SOC dicen que obtienen un valor excelente de la IA. Esto es lo que la segunda ola tiene que ofrecer
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Los piratas informáticos aprovechan un defecto crítico del complemento de WordPress Everest Forms Pro para apoderarse de los sitios
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Las estafas de la Copa Mundial de la FIFA 2026 ya están activas: sitios falsos, malware bancario e inicios de sesión robados
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)**
+
+---
+
+> 📅 **2026/06/05**
+> ### PCPJack secuestra 230 servidores AWS, Google Cloud y Azure para una red de retransmisión SMTP encubierta
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### Cisco parchea CVE-2026-20230 en Unified CM a medida que el código de explotación se hace público
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### La falla de acción de Claude Code GitHub permitió que un problema malicioso secuestrara los repositorios
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### La IA agente está transformando la defensa, pero sólo una infraestructura de TI segura la maximizará
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### Boletín ThreatsDay: Agentes de IA que salieron mal, herramientas C2 incompletas, trucos ClickFix, puertas traseras JS y más de 20 historias nuevas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### TA4922 vinculado a China amplía los ataques de phishing al Reino Unido, Alemania, Italia y Sudáfrica
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### La puerta trasera FlutterShell se propaga a macOS a través de anuncios maliciosos de Google y YouTube
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### Los sitios falsos que imitan herramientas de código abierto ocupan un lugar destacado en Google para distribuir malware a través de TDS
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### Los piratas informáticos espiaron el buzón de Outlook de un ejecutivo de la Bolsa de Valores durante cinco meses
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)**
+
+---
+
+> 📅 **2026/06/04**
+> ### El Departamento de Justicia interrumpe las redes de fraude criptográfico del sudeste asiático y congela 3,8 millones de dólares en activos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### WhatsApp y las notificaciones de Slack podrían secuestrar Google Gemini en Android
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### El ataque de desarrollo de GitHub con un solo clic permite a los atacantes robar tokens completos de GitHub OAuth
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### Una herramienta de IA autónoma encuentra un defecto RCE de hace 2 años en Redis (CVE-2026-23479)
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### CISA agrega el defecto CVE-2026-45247 de Magento RCE explotado al catálogo KEV
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### Se abusa de Google DoubleClick en una nueva campaña de malspam para ofrecer DesckVB RAT
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### Más allá del día cero: vea su red como un atacante | Seminario web con HD Moore
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### Las aplicaciones de Android de Microsoft 365 permiten que cualquier aplicación robe tokens de cuenta a través del indicador de depuración sobrante
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### Reducir la superficie de ataque de IAM a través de plataformas de inteligencia y visibilidad de identidad (IVIP)
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### Una vulnerabilidad de URI de búsqueda de Windows sin parches permite a los atacantes robar hashes NTLMv2
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### La nueva vulnerabilidad de bomba HTTP/2 permite DoS remoto en NGINX, Apache, IIS, Envoy y Cloudflare
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)**
+
+---
+
+> 📅 **2026/06/03**
+> ### Weedhack ataca a los usuarios de Minecraft, CountLoader alcanza los 86.000, los mineros se propagan a través de contenido pirateado
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)**
+
+---
+
+> 📅 **2026/06/02**
+> ### La actualización de Android de junio de 2026 de Google corrige 124 fallas, una de ellas explotada activamente
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)**
+
+---
+
+> 📅 **2026/06/02**
+> ### Gamaredon aprovecha WinRAR para entregar GammaWorm y GammaSteel contra Ucrania
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)**
+
+---
+
+> 📅 **2026/06/02**
+> ### Oracle WebLogic CVE-2024-21182 agregado al catálogo KEV después de la explotación activa
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)**
+
+---
+
+> 📅 **2026/06/02**
+> ### La explotación impulsada por la IA está destruyendo la gestión de vulnerabilidades. He aquí cómo manejarlo.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)**
+
+---
+
+> 📅 **2026/06/02**
+> ### Cómo las organizaciones líderes están convirtiendo la EDR en resiliencia operativa
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)**
+
+---
+
+> 📅 **2026/06/02**
+> ### SideCopy vinculado a Pakistán apunta al Ministerio de Finanzas de Afganistán con Xeno RAT
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)**
+
+---
+
+> 📅 **2026/06/02**
+> ### Dashlane revela un ataque de fuerza bruta y descargas de bóvedas cifradas de menos de 20 usuarios
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)**
+
+---
+
+> 📅 **2026/06/01**
+> ### El ataque a la cadena de suministro de Miasma compromete los paquetes npm de Red Hat con un gusano que roba credenciales
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)**
+
+---
+
+> 📅 **2026/06/01**
+> ### ⚡ Resumen semanal: nueva falla de Linux, explotación de PAN-OS, ataques impulsados ​​por IA, phishing de OAuth y más
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)**
+
+---
+
+> 📅 **2026/06/01**
+> ### Grupos alineados con China intensifican sus ataques: Dragon Weave golpea la República Checa y Taiwán
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)**
+
+---
+
+> 📅 **2026/06/01**
+> ### La plataforma de crecimiento de la seguridad: por qué los MSP están yendo más allá de las herramientas vCISO
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)**
+
+---
+
+> 📅 **2026/06/01**
+> ### Tokens de autenticación OpenAI Codex robados en un ataque a la cadena de suministro de codexui-android npm
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)**
+
+---
+
+> 📅 **2026/06/01**
+> ### Falla crítica de WP Maps Pro explotada activamente para crear cuentas de administrador
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)**
+
+---
+
+> 📅 **2026/05/31**
+> ### Las autoridades holandesas desmantelan una botnet vinculada a 17 millones de dispositivos infectados
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)**
+
+---
+
+> 📅 **2026/05/30**
+> ### Omisión de autenticación de PAN-OS GlobalProtect (CVE-2026-0257) bajo explotación activa
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)**
+
+---
+
+> 📅 **2026/06/05**
+> ### El proyecto de incubadora OWASP ayuda a los desarrolladores a encontrar y solucionar dependencias vulnerables en segundos
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/)**
+
+---
+
+> 📅 **2026/06/05**
+> ### En otras noticias: Amenazas de IA de Anthropic Maps, falla de Comodo sin parches, jefe de Palantir en la mira para CISA
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Los piratas informáticos filtran información de DentaQuest que afecta a 2,6 millones
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Chrome 149 parches 429 vulnerabilidades
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Reacciones de la industria a la nueva orden ejecutiva de Trump sobre ciberseguridad sobre IA: comentarios del viernes
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Cinco ojos: espías chinos apuntan al gobierno y al personal militar con oportunidades laborales falsas
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)**
+
+---
+
+> 📅 **2026/06/05**
+> ### El gigante de los clubes nocturnos RCI dice que la filtración de datos afecta a 40.000 personas
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)**
+
+---
+
+> 📅 **2026/06/05**
+> ### Cisco advierte sobre la séptima SD-WAN Zero-Day explotada en 2026
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)**
+
+---
+
+> 📅 **2026/06/04**
+> ### Offroad emerge del sigilo con 7 millones de dólares para abordar el riesgo de identidad empresarial
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)**
+
+---
+
+> 📅 **2026/06/04**
+> ### Seminario web de hoy: Riesgo de terceros en la práctica: dónde fallan los programas y cómo responder
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/)**
+
+---
+
+
+</details>
+<details>
 <summary><b>📦 Ver Noticias Recientes (2026/05/22 al 2026/05/29)</b></summary>
 <br/>
 
@@ -777,13 +1148,6 @@
 </details>
 <details>
 <summary><b>📦 Ver Noticias Recientes (2026/05/07 al 2026/05/14)</b></summary>
-<br/>
-
-_No se encontraron noticias en este período._
-
-</details>
-<details>
-<summary><b>📦 Ver Noticias Recientes (2026/04/30 al 2026/05/07)</b></summary>
 <br/>
 
 _No se encontraron noticias en este período._
