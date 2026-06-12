@@ -6,6 +6,433 @@
 <!-- NOTICIAS_START -->
 
 <details>
+<summary><b>📦 Ver Noticias Recientes (2026/06/05 al 2026/06/12)</b></summary>
+<br/>
+
+
+> 📅 **2026/06/12**
+> ### Más de 400 paquetes AUR de Arch Linux secuestrados para instalar Rust Credential Stealer
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Google demanda a la red china Smishing acusada de utilizar Gemini AI en phishing
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Hackers vinculados a China ocultaron el software de inicio de sesión de Linux durante casi una década
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### El ataque de secuestro de agentes engaña a los agentes codificadores de IA para que ejecuten código malicioso
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Repensar el MDR a medida que atacantes y defensores adoptan la IA
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### LangGraph Flaw Chain expone a los agentes de IA autohospedados a la ejecución remota de código
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Una operación de INTERPOL derriba la plataforma de phishing Sniper Dz y arresta a un administrador
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Europol interrumpe el servicio de lavado de criptomonedas AudiA6 utilizado por bandas de ransomware
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### ShinyHunters aprovecha Oracle PeopleSoft Zero-Day (CVE-2026-35273) para violar universidades
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### Nuevos ataques engañan al agente OpenClaw AI para que ejecute código y filtre secretos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### El nuevo exploit GreatXML omite Windows BitLocker a través de archivos XML de partición de recuperación
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### The Gentlemen Ransomware se cobra 478 víctimas y puede propagarse como un gusano
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### Cybersecurity Stars Awards 2026: se anuncian los ganadores en 95 categorías
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### Boletín ThreatsDay: Código de gusano filtrado, agente de IA atacado, parche de Claude Code + 28 historias nuevas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### La IA rompió la gestión de vulnerabilidades. Es por eso que los CISO están trasladando el presupuesto a BAS.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### OceanLotus golpea a inversores de Vietnam con SPECTRALVIPER en el ataque de FireAnt
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)**
+
+---
+
+> 📅 **2026/06/11**
+> ### GitHub deshabilitará los scripts de instalación de npm de forma predeterminada para detener los ataques a la cadena de suministro
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### La botnet JDY vinculada a China se expande a más de 1500 dispositivos para reconocimiento cibernético
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Ivanti, Fortinet y SAP lanzan parches para múltiples vulnerabilidades críticas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Vulnerabilidad de Langflow CVE-2026-5027 explotada para RCE no autenticado
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### CISA agrega fallas de Cisco, Chrome y Arista al catálogo KEV en medio de una explotación activa
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Su Pentest automatizado parece limpio. Vea lo que se perdió en este seminario web para expertos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Microsoft parchea un récord de 206 fallas, incluidos tres errores de día cero y errores críticos de RCE
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Anthropic lanza Claude Fable 5, su IA más poderosa hasta el momento, con salvaguardias cibernéticas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Falla de ServiceNow explotada para obtener acceso no autorizado a instancias de clientes
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Microsoft Defender RoguePlanet Zero-Day otorga acceso al SISTEMA en Windows actualizado
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)**
+
+---
+
+> 📅 **2026/06/10**
+> ### Seis vulnerabilidades de Proto6 en protobuf.js exponen las aplicaciones Node.js a RCE y DoS
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### Meta utilizará datos comerciales externos para la personalización de feeds e inteligencia artificial
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### La falla de Veeam Backup & Replication RCE permite a los usuarios de dominio ejecutar código remoto
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### Microsoft restaura algunos repositorios de GitHub y mantiene otros fuera de línea mientras continúa Miasma Probe
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### Defecto de WinRAR explotado por grupos alineados con Rusia para desplegar ladrones en Ucrania
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### Los investigadores construyen un gusano de IA autorreplicante que funciona completamente en modelos locales de peso abierto
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### Chrome V8 Zero-Day CVE-2026-11645 explotado en estado salvaje - Parche ahora
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### El riesgo de seguridad oculto en las redes modernas: el trabajo entre herramientas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### El nuevo ataque FROST permite a los sitios web rastrear qué sitios y aplicaciones abre a través de SSD Timing
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### Ataque Hades PyPI: 19 paquetes envenenados para ejecutar automáticamente el ladrón de credenciales de bollos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html)**
+
+---
+
+> 📅 **2026/06/09**
+> ### Fallo LiteLLM CVE-2026-42271 explotado en la naturaleza, encadenamiento a RCE no autenticado
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### La falla del kernel de Linux de un carácter permite el acceso raíz local, los exploits ahora son públicos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### Meta bloquea el nuevo ataque de phishing de WhatsApp de NSO Group y presenta orden de desacato
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### Fallo crítico de VPN en el punto de control explotado para omitir contraseñas en configuraciones IKEv1
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### El phishing con IA está aplastando los SOC con volumen de alertas: cómo reducir la sobrecarga de nivel 1
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### ⚡ Resumen semanal: hacks de cuentas de Instagram, Android Zero-Day, gusano GitHub y más
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### La bifurcación más dura
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/the-hardest-fork.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### VerdantBamboo implementa la variante BSD de BRICKSTORM en dispositivos Linux
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### UNC3753 utilizó vishing e intrusiones físicas en una campaña de extorsión por robo de datos en EE. UU.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)**
+
+---
+
+> 📅 **2026/06/08**
+> ### VS Code agrega un retraso de actualización automática de extensión de 2 horas para limitar los ataques a la cadena de suministro
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)**
+
+---
+
+> 📅 **2026/06/06**
+> ### El nuevo modo de bloqueo de ChatGPT limita las herramientas que podrían permitir la filtración de datos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)**
+
+---
+
+> 📅 **2026/06/06**
+> ### Las aplicaciones gratuitas están convirtiendo silenciosamente los televisores inteligentes en servidores proxy de inteligencia artificial
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)**
+
+---
+
+> 📅 **2026/06/06**
+> ### CISA agrega la falla DoS de SolarWinds Serv-U explotada activamente al catálogo KEV
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)**
+
+---
+
+> 📅 **2026/06/06**
+> ### Un agente de IA descubre 21 días cero en FFmpeg; Los parches de Chrome registran 429 errores
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)**
+
+---
+
+> 📅 **2026/06/12**
+> ### En otras noticias: despidos por motivos de seguridad en Google, eliminación del AudiA6, multa de 400 millones de dólares
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Reacciones de la industria a Claude Fable 5: comentarios del viernes
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)**
+
+---
+
+> 📅 **2026/06/12**
+> ### El grupo cibernético iraní Handala se atribuye el hackeo de Cal Water
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Los intentos de explotación de Ivanti Sentry afectan a los Honeypots
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)**
+
+---
+
+> 📅 **2026/06/12**
+> ### La actualización de Chrome 149 parchea 28 vulnerabilidades
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Disputas antrópicas Fable 5 AI Jailbreak
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)**
+
+---
+
+> 📅 **2026/06/12**
+> ### Google confirma la explotación de Oracle PeopleSoft Zero-Day por parte de ShinyHunters
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)**
+
+---
+
+> 📅 **2026/06/11**
+> ### Oracle aborda la vulnerabilidad de PeopleSoft en medio de informes de ataques de día cero
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)**
+
+---
+
+> 📅 **2026/06/11**
+> ### La fatiga de alerta se está convirtiendo en una amenaza a la seguridad en sí misma
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)**
+
+---
+
+> 📅 **2026/06/11**
+> ### CISA ordena a las agencias federales que prioricen los parches de seguridad según el riesgo
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)**
+
+---
+
+
+</details>
+<details>
 <summary><b>📦 Ver Noticias Recientes (2026/05/29 al 2026/06/05)</b></summary>
 <br/>
 
@@ -1144,13 +1571,6 @@
 
 ---
 
-
-</details>
-<details>
-<summary><b>📦 Ver Noticias Recientes (2026/05/07 al 2026/05/14)</b></summary>
-<br/>
-
-_No se encontraron noticias en este período._
 
 </details>
 <!-- NOTICIAS_END -->
