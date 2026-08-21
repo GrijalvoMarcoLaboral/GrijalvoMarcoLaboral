@@ -6,6 +6,433 @@
 <!-- NOTICIAS_START -->
 
 <details>
+<summary><b>📦 Ver Noticias Recientes (2026/08/14 al 2026/08/21)</b></summary>
+<br/>
+
+
+> 📅 **2026/08/21**
+> ### Wazuh e IA para flujos de trabajo SOC mejorados
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)**
+
+---
+
+> 📅 **2026/08/21**
+> ### Cisco parchea nueve fallas en cargas de trabajo seguras y de trabajo cruzado, cinco con puntuación CVSS 10.0
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)**
+
+---
+
+> 📅 **2026/08/21**
+> ### GitLab CVE-2026-19478 está bajo explotación activa a los pocos días de su divulgación
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)**
+
+---
+
+> 📅 **2026/08/21**
+> ### Fallo de Microsoft Entra ID (CVSS 10.0) explotado de forma salvaje, permite la ejecución remota de código
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### El ataque de Rust a la cadena de suministro coloca el malware en tiempo de compilación en cajas con 245 millones de descargas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Presuntos piratas informáticos rusos abusan de Google OAuth y WhatsApp al vincularse a cuentas secuestradas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, recompensa de 10 millones de dólares, explotación de IA GLM-5.3 y más
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Los scripts de explotación generados por IA se dirigen a los PLC Siemens S7 en infraestructura crítica de EE. UU.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Un nuevo ataque de inyección de contexto criptográfico podría permitir que las páginas web roben datos de chat de Grok
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Una falla de máquina virtual aislada permite que JavaScript en el espacio aislado escape al host para un potencial RCE
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Una falla crítica de NetScaler puede eludir la autenticación en ciertos servidores AAA y Gateway
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Los atacantes aprovechan la falla SNMP de Zimbra para la ejecución remota de código no autenticado
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### El ataque zombi a una tarjeta puede revivir tarjetas Visa caducadas para pagos sin contacto
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Por qué la "IA sombría" es el próximo gran problema de gobernanza de la seguridad
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### El ataque CDN Tsunami abusa de la traducción HTTP/3 para una amplificación DoS de hasta 350x
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Manic Android Malware filtra datos de teléfonos sin conexión a través de dispositivos infectados cercanos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Las fallas AIT-GUI de la NASA podrían permitir que atacantes no autenticados emitan comandos de naves espaciales
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### ToxicPanda 2.0 y GoldDigger amplían los ataques bancarios en Android con fraude en el dispositivo
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### 40 extensiones maliciosas de Firefox se hacen pasar por productos Web3 para robar secretos de billetera
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html)**
+
+---
+
+> 📅 **2026/08/20**
+> ### La falla de Elementor Pro podría permitir que atacantes no autenticados carguen PHP y ejecuten código
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### El ataque Spectre de los trabajadores de Cloudflare filtra JWT de un trabajador ubicado en el mismo lugar a 12 bits/segundo
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### OpenAI suspende el entrenamiento de Frontier RL mientras refuerza las defensas contra el comportamiento inseguro de la IA
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### La campaña de espionaje de SilkParasite apunta a los gobiernos de Asia Central con cinco nuevas RAT
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### Los piratas informáticos comprometieron más de 14.500 dispositivos Dahua mediante ataques de credenciales, omisiones de autenticación y P2P
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### Phishing 3.0: la lucha pasa a ser agente contra agente
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### StopAndProtect utiliza casi 2000 sitios de WordPress pirateados para difundir malware y robar datos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### Defectos críticos de macOS, SharePoint, vCenter y Microsoft IKE bajo explotación activa
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### Microsoft vincula más de 30 dominios rotativos a la infraestructura MacSync Stealer
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html)**
+
+---
+
+> 📅 **2026/08/19**
+> ### Windchill Web Shell vinculado a Clop descifra credenciales y asigna datos de ingeniería
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### Las fallas personales de Microsoft Copilot podrían permitir que un clic extraiga datos de las aplicaciones conectadas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### Los atacantes aprovechan la falla SSRF de MLflow para robar credenciales y secretos de la nube
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### Ransom Busters afirma que pirateó servidores de ransomware y pide a las víctimas hasta 60.000 dólares
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### Los "virus mentales" de IA pueden propagarse entre agentes a través de archivos de aviso persistentes
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### TWINLOOT abusa de SharePoint y Teams para robar credenciales y moverse a través de redes
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### Un atacante ha destruido los portales Salesforce y ServiceNow desde 2025
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### 16 paquetes de RubyGems mal utilizados roban credenciales de navegador y billeteras criptográficas
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### SafePal Hardware Wallet Maker dice que los datos expuestos a fallas de casi 40,000 clientes
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)**
+
+---
+
+> 📅 **2026/08/18**
+> ### CISA señala un fallo de rayos activamente explotado que puede activar RCE basado en navegador
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### Una falla crítica de GitLab GraphQL podría permitir que atacantes no autenticados eliminen proyectos públicos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### La falla en las acciones de Snowflake GitHub permite que los problemas elaborados activen la inyección de comandos
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### La falla de Forminator WordPress puede habilitar RCE no autenticado a través de cargas maliciosas de PHP
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### Cavern C2 utiliza DNS y Google Apps Script para integrarse en el tráfico legítimo
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### ⚡ Resumen semanal: exploits de VMware, Windows 0-Day, ataques MCP, secuestros de navegador y más
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### Cómo los servidores MCP pueden exponer secretos empresariales
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### La cadena de explotación de videollamadas VoLTE de Unisoc puede brindar a los atacantes acceso completo al kernel de Android
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### La botnet Evooo1Bot Linux aprovecha fallos conocidos para convertir dispositivos perimetrales en proxies SOCKS5
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)**
+
+---
+
+> 📅 **2026/08/17**
+> ### El presunto actor China-Nexus explota la falla de VMware vCenter e implementa ransomware derivado de Babuk
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)**
+
+---
+
+> 📅 **2026/08/15**
+> ### SAP Commerce Cloud CVE-2026-58231 blanco de intentos de explotación días después del parche
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html)**
+
+---
+
+> 📅 **2026/08/15**
+> ### Fallo de uso compartido de pantalla de Apple macOS explotado en Mac expuestas a Internet para instalar Monero Miner
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html)**
+
+---
+
+> 📅 **2026/08/14**
+> ### Los piratas informáticos gastan casi 7 millones de dólares en dominios caducados para redirigir el tráfico a estafas y malware
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html)**
+
+---
+
+> 📅 **2026/08/21**
+> ### Una vulnerabilidad crítica de máquina virtual aislada conduce a RCE en el host
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)**
+
+---
+
+> 📅 **2026/08/21**
+> ### Ataque a la cadena de suministro de Rust vinculado a piratas informáticos norcoreanos
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)**
+
+---
+
+> 📅 **2026/08/21**
+> ### La confianza de los contratistas en CMMC aumenta a medida que se queda atrás la capacidad de demostrarlo
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)**
+
+---
+
+> 📅 **2026/08/21**
+> ### Microsoft parchea la vulnerabilidad explotada de Entra ID
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)**
+
+---
+
+> 📅 **2026/08/21**
+> ### CISA insta a aplicar parches inmediatos a las vulnerabilidades explotadas de TrueConf
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Los piratas informáticos apuntan a los servidores Zimbra en una campaña de explotación activa
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Vigilancia: todo lo que quería saber pero tenía miedo de preguntar
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Actor de amenazas piratea 14.000 cámaras IP en Ucrania y Rusia
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Atlassian y Splunk parchean docenas de vulnerabilidades críticas de alta gravedad
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/)**
+
+---
+
+> 📅 **2026/08/20**
+> ### Vulnerabilidad de MLflow explotada para robo de credenciales en la nube
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/)**
+
+---
+
+
+</details>
+<details>
 <summary><b>📦 Ver Noticias Recientes (2026/08/07 al 2026/08/14)</b></summary>
 <br/>
 
@@ -1652,328 +2079,6 @@
 > ### Assaf Keren nombrado nuevo CISO de Meta
 > 
 > **[🔗 Ir al enlace ↗](https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/)**
-
----
-
-
-</details>
-<details>
-<summary><b>📦 Ver Noticias Recientes (2026/07/10 al 2026/07/17)</b></summary>
-<br/>
-
-
-> 📅 **2026/07/17**
-> ### Las pruebas de codificación falsas generan malware alineado con OtterCookie oculto en imágenes de banderas SVG
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)**
-
----
-
-> 📅 **2026/07/17**
-> ### UE. Ordena a Google que abra el micrófono, la cámara y la pantalla de Android para rivalizar con los asistentes de IA
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)**
-
----
-
-> 📅 **2026/07/17**
-> ### La carrera hacia la autonomía militar ha comenzado, ¿podrá la infraestructura de información confiable mantener el ritmo?
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)**
-
----
-
-> 📅 **2026/07/17**
-> ### Armenia detiene a un turista ruso bajo orden de arresto estadounidense por hacker REvil, los abogados dicen que es el hombre equivocado
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)**
-
----
-
-> 📅 **2026/07/17**
-> ### ACR Stealer utiliza señuelos ClickFix para robar tokens del navegador y archivos de Microsoft 365
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)**
-
----
-
-> 📅 **2026/07/17**
-> ### El nuevo malware GoSerpent apunta a gobiernos y diplomáticos del Sudeste Asiático para realizar espionaje
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)**
-
----
-
-> 📅 **2026/07/17**
-> ### CISA agrega SharePoint RCE Zero-Day CVE-2026-58644 explotado a KEV
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### Dos hackers Spider dispersos obtienen 5,5 años cada uno por un hack TfL de £ 29 millones
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### ThreatsDay: software espía para trampas de juegos, ransomware las 24 horas, acecho en Chrome Sync y 12 historias más
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### La falla en el intercambio de tokens n8n podría permitir a los atacantes iniciar sesión como usuarios de otro emisor
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### El nuevo malware TELEPUZ se propaga a través de ClickFix para robar datos y ejecutar comandos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### El nuevo ClickLock macOS Stealer elimina aplicaciones cada 210 ms hasta que las víctimas escriben su contraseña
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### Más de 20 sitios web gubernamentales secuestrados se convirtieron en canales de ataque
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### El nuevo ataque de inyección de datos del agente puede hacer que los agentes de IA hagan clic mal o ejecuten comandos del atacante
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### Daxin resurge en Taiwán junto con la puerta trasera del SISTEMA de inicio de sesión previo de Stupig
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### La IA puede encontrar errores, pero el conocimiento humano aún los demuestra
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### Una falla en la aspiradora Shark sin parches podría permitir a los atacantes controlar otras aspiradoras en toda la región
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### GPT-Red de OpenAI automatiza las pruebas de inyección rápidas para endurecer el sol GPT-5.6
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html)**
-
----
-
-> 📅 **2026/07/16**
-> ### Zoom corrige una falla crítica de Windows que podría permitir la apropiación de cuentas
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### TuxBot v3 Evolution muestra signos de desarrollo de botnets de IoT asistido por LLM
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### OkoBot Malware Framework inyecta phishing de frases iniciales en aplicaciones Ledger y Trezor
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### Las actualizaciones de Firefox, Chrome, Adobe y VMware solucionan múltiples fallos de seguridad críticos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### SASE tiene un punto ciego de IA. Inspeccionar paquetes ya no es suficiente.
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### Un investigador lanza una nueva PoC de día cero para Windows horas después del parche de Microsoft el martes
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### Nuevo seminario web: Cerrar la brecha de aprobación en la tecnología publicitaria de la era de la IA
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### Un fallo del cursor permite que repositorios clonados maliciosos activen la ejecución de código de Windows
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### Los paquetes npm de AsyncAPI comprometidos generan malware de botnet de múltiples etapas
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)**
-
----
-
-> 📅 **2026/07/15**
-> ### Dos SonicWall SMA 1000 Zero-Day explotados, uno podría habilitar los comandos de administración
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)**
-
----
-
-> 📅 **2026/07/14**
-> ### Microsoft parchea un récord de 622 fallas, incluidos dos días cero bajo ataque activo
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)**
-
----
-
-> 📅 **2026/07/14**
-> ### SAP parchea falla CVSS 9.9 NetWeaver ABAP que podría exponer o modificar datos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html)**
-
----
-
-> 📅 **2026/07/14**
-> ### Los investigadores dicen que Claude por la falla de Chrome permite que las extensiones no autorizadas activen lecturas de Gmail
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html)**
-
----
-
-> 📅 **2026/07/14**
-> ### LabubaRAT se hace pasar por software NVIDIA para controlar hosts de Windows
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html)**
-
----
-
-> 📅 **2026/07/14**
-> ### Las fallas de RabbitMQ podrían filtrar secretos de OAuth y exponer metadatos de colas entre inquilinos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)**
-
----
-
-> 📅 **2026/07/14**
-> ### 11 antiguas cuñas UEFI de Linux firmadas por Microsoft podrían permitir a los atacantes evitar el arranque seguro
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)**
-
----
-
-> 📅 **2026/07/14**
-> ### Un estudio de 85 extensiones de billetera criptográfica encuentra fugas de direcciones y riesgos de seguimiento entre sitios
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)**
-
----
-
-> 📅 **2026/07/17**
-> ### Podcast: Gobernanza rota, IA agente y la exclusiva para agentes MindStone
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/)**
-
----
-
-> 📅 **2026/07/17**
-> ### Beacon Security recauda 13 millones de dólares para la plataforma de datos de seguridad
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/)**
-
----
-
-> 📅 **2026/07/17**
-> ### Reacciones de la industria ante la suspensión del Pentágono de la fase 2 del CMMC: comentarios del viernes
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/)**
-
----
-
-> 📅 **2026/07/17**
-> ### Un ciberataque interrumpe las operaciones del gigante japonés de alimentos congelados Nichirei
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/)**
-
----
-
-> 📅 **2026/07/17**
-> ### Risk Ledger recauda 32 millones de dólares en financiación Serie B
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/)**
-
----
-
-> 📅 **2026/07/17**
-> ### Nueva vulnerabilidad de SharePoint explotada poco después de la divulgación
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/)**
-
----
-
-> 📅 **2026/07/17**
-> ### Coca-Cola suspende la producción de Fairlife en EE. UU. debido a un ataque de ransomware
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/)**
-
----
-
-> 📅 **2026/07/16**
-> ### Sistemas heredados, impactos en el mundo real: la realidad de la seguridad OT
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)**
-
----
-
-> 📅 **2026/07/16**
-> ### Dos hackers Spider dispersos condenados a prisión en el Reino Unido
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)**
-
----
-
-> 📅 **2026/07/16**
-> ### Los centros de datos de IA se están construyendo más rápido de lo que se puede proteger
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)**
 
 ---
 
