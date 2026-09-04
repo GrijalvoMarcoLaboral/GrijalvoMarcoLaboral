@@ -6,6 +6,433 @@
 <!-- NOTICIAS_START -->
 
 <details>
+<summary><b>📦 Ver Noticias Recientes (2026/08/28 al 2026/09/04)</b></summary>
+<br/>
+
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/fake-software-installers-disable.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html)**
+
+---
+
+> 📅 **2026/09/02**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)**
+
+---
+
+> 📅 **2026/09/01**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)**
+
+---
+
+> 📅 **2026/08/31**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)**
+
+---
+
+> 📅 **2026/08/31**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)**
+
+---
+
+> 📅 **2026/08/31**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)**
+
+---
+
+> 📅 **2026/08/31**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)**
+
+---
+
+> 📅 **2026/08/31**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html)**
+
+---
+
+> 📅 **2026/08/31**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html)**
+
+---
+
+> 📅 **2026/08/31**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)**
+
+---
+
+> 📅 **2026/08/30**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)**
+
+---
+
+> 📅 **2026/08/29**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)**
+
+---
+
+> 📅 **2026/08/28**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)**
+
+---
+
+> 📅 **2026/08/28**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)**
+
+---
+
+> 📅 **2026/08/28**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/)**
+
+---
+
+> 📅 **2026/09/04**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/)**
+
+---
+
+> 📅 **2026/09/03**
+> ### Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+> 
+> **[🔗 Ir al enlace ↗](https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/)**
+
+---
+
+
+</details>
+<details>
 <summary><b>📦 Ver Noticias Recientes (2026/08/21 al 2026/08/28)</b></summary>
 <br/>
 
@@ -1652,433 +2079,6 @@
 > ### Fallo crítico en un clip que permite acceso de administrador y ejecución de código
 > 
 > **[🔗 Ir al enlace ↗](https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/)**
-
----
-
-
-</details>
-<details>
-<summary><b>📦 Ver Noticias Recientes (2026/07/24 al 2026/07/31)</b></summary>
-<br/>
-
-
-> 📅 **2026/07/31**
-> ### Tres versiones recientes de Chrome solucionan 1.442 fallos, más que las 23 actualizaciones anteriores combinadas
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)**
-
----
-
-> 📅 **2026/07/31**
-> ### Los investigadores informan 84 fallas en los núcleos 4G y 5G, incluida una falla de secuestro de sesión
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)**
-
----
-
-> 📅 **2026/07/31**
-> ### Seis razones por las que el phishing de códigos de dispositivos es la amenaza de más rápido crecimiento en 2026
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)**
-
----
-
-> 📅 **2026/07/31**
-> ### Un hacker chino ordena a DeepSeek a través de Telegram que lance ataques autónomos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)**
-
----
-
-> 📅 **2026/07/31**
-> ### Anthropic dice que Claude confundió la Internet abierta con un CTF y violó a tres organizaciones
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### La publicidad maliciosa de macOS vinculada a la RPDC utiliza actualizaciones falsas para distribuir malware que roba criptomonedas
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### ThreatsDay: piratería impulsada por IA, 370 fallas de Chrome, ataques de SonicWall, secuestro de DNS y 22 historias más
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### Falla de Azure Cosmos DB expuesta en clave de plataforma que podría acceder a cualquier base de datos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### Microsoft Copilot para Word puede copiar mensajes ocultos en documentos nuevos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### La red se ha convertido en el plano de control de la seguridad de la IA
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### Los piratas informáticos aprovechan AnySign4PC a través de sitios coreanos pirateados para instalar puertas traseras sin avisos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### SilverFox apunta al fabricante japonés con cadena BYOVD de 3 conductores y ValleyRAT
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### Los piratas informáticos rusos aprovechan la falla de Microsoft OWA para mantener el acceso al buzón después de la rotación de credenciales
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### La FCC bloquea nuevos robots e inversores de energía de producción extranjera por riesgos cibernéticos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### Amazon vincula Debug y Chalk npm Hijack con Sapphire Sleet de Corea del Norte
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)**
-
----
-
-> 📅 **2026/07/30**
-> ### Las credenciales estáticas y explotadas activamente de Cisco FMC Zero-Day podrían exponer datos confidenciales
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Una falla crítica en Rails podría permitir que atacantes no autenticados lean archivos del servidor mediante la carga de imágenes
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### La falla de Ruflo MCP permite a atacantes no autenticados ejecutar comandos y envenenar la memoria de la IA
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Tres fallas críticas de VMware permiten eludir la autenticación, la ejecución de código y el escape de VM
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Un ciberataque coordinado apunta a más de 30 sistemas de agua de Minnesota mientras una planta se desconecta
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Una campaña de fraude de nueve años clona sitios de empresas rusas para robar pagos por adelantado
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Mythos hace la pregunta correcta. No lo responde.
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Los investigadores muestran que una sola visita a una página web maliciosa puede comprometer el navegador Tor
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### El 73% de las organizaciones dicen que no están completamente preparadas para un ciberataque importante
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Rusia acusa al fundador de Telegram, Pavel Durov, de ayudar a actividades terroristas
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### PoC pública publicada para la omisión de autenticación de SmartConsole de Check Point explotada
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### El agente de OpenAI utilizó credenciales expuestas en cuatro servicios durante una violación de la cara de abrazo
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### El nuevo Gitea RCE permite a los escritores de repositorios instalar un gancho Git para ejecutar comandos de Shell
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Rastros de Flying Eagle Android RAT encontrados en 170 servidores a medida que circula el código fuente
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)**
-
----
-
-> 📅 **2026/07/29**
-> ### Dos paquetes joyfill npm comprometidos ejecutan RAT cuando se importan a Node.js
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Claude AI acaba de descifrar un esquema de prueba poscuántico y encontró un ataque AES de 7 rondas más rápido
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Tengu Botnet reinicia dispositivos Linux comprometidos cuando los defensores interrumpen su proceso
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### 24.650 BMC expuestos a Internet divulgan hashes de contraseñas de IPMI antes de iniciar sesión
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### JFrog confirma que los modelos OpenAI explotaron el día cero artificial antes de abrazar la violación de la cara
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Una falla crítica de OpenWrt DHCPv6 podría permitir que atacantes no autenticados ejecuten código como raíz
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Nimbus Manticore implementa NightLedger y convierte los sistemas de víctimas en retransmisiones encubiertas
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Una falla crítica de TeamCity podría permitir a los atacantes ejecutar comandos del sistema operativo sin iniciar sesión
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Un investigador dice que la IA ayudó a desarrollar la carrera de control del tráfico de Linux hacia el exploit de raíz
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Microsoft dice que el nuevo modelo de IA de ciberseguridad ayuda a MDASH a obtener una puntuación del 95,95 % a la mitad del coste
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html)**
-
----
-
-> 📅 **2026/07/28**
-> ### Los atacantes aprovechan la falla de inyección de comando de Arista VeloCloud Orchestrator
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### NVIDIA forma una alianza abierta y segura de IA con 37 miembros y el marco NOOA de fuentes abiertas
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### La botnet Dysphoria IoT agrega Blockchain C2 y retransmisiones de víctimas después de la interrupción de JackSkid
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### Exploit público lanzado para falla de ejecución del código de autenticación previa de vBulletin parcheado
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### ⚡ Resumen semanal: agentes de IA rebeldes, explotación de puntos de control, sentadillas, señuelos ClickFix y más
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### n8n Sandbox Escape permite a los editores de flujo de trabajo ejecutar comandos del sistema operativo como el proceso n8n
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### Operation BlueDash implementa Level RMM y ScreenConnect a través de una actualización de equipos falsos
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### Cruciferra Crypter utiliza BYOVD y Process Ghosting para ocultar malware de Windows
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### TELESHIM abusa de Telegram para C2 en ataques contra gobiernos de Medio Oriente
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)**
-
----
-
-> 📅 **2026/07/27**
-> ### GitHub agrega un tiempo de reutilización de Dependabot de 3 días para limitar la adopción de paquetes envenenados
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)**
-
----
-
-> 📅 **2026/07/25**
-> ### La publicidad maliciosa envía malware en pedazos y luego hace que el navegador cree el ejecutable
-> 
-> **[🔗 Ir al enlace ↗](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)**
-
----
-
-> 📅 **2026/07/31**
-> ### Google AI descubre una falla de Chrome de 13 años en medio de un ritmo récord de parches
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)**
-
----
-
-> 📅 **2026/07/31**
-> ### La UE tomará medidas enérgicas contra los deepfakes de IA, las imágenes ilícitas y la piratería con un nuevo equipo en Bruselas
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)**
-
----
-
-> 📅 **2026/07/31**
-> ### Impulsado por la divulgación de OpenAI, Anthropic descubre que sus propios modelos piratearon 3 organizaciones
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)**
-
----
-
-> 📅 **2026/07/31**
-> ### Fallo crítico permitido en Pwnage de Azure Cosmos DB
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)**
-
----
-
-> 📅 **2026/07/31**
-> ### La filtración de datos de CareCloud afecta a más de 350.000 personas
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)**
-
----
-
-> 📅 **2026/07/31**
-> ### Vulnerabilidad crítica de ejecución de código parcheada en TeamCity
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)**
-
----
-
-> 📅 **2026/07/30**
-> ### CISA insta al sector del agua a proteger OT después de ataques coordinados a PLC
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)**
-
----
-
-> 📅 **2026/07/30**
-> ### Bank of America adquirirá la empresa de ciberseguridad MDSec
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)**
-
----
-
-> 📅 **2026/07/30**
-> ### Okta adquirirá Permiso, la empresa de detección de amenazas a la identidad
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/)**
-
----
-
-> 📅 **2026/07/30**
-> ### Cumplimiento atemporal: por qué las mejores preguntas superan a los marcos más amplios
-> 
-> **[🔗 Ir al enlace ↗](https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/)**
 
 ---
 
